@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TugasIntent</string>
+    <string name="editText_Nama">Masukkan Nama Anda</string>
+    <string name="editText_Alamat">Masukkan Alamat Anda</string>
+    <string name="editText_NoTlp">Masukkan Nomor Telepon Anda</string>
+    <string name="button_main">Daftar</string>
+    <string name="activity2_name">activity2_name</string>
+    <string name="text_header">Data Pendaftaran</string>
+</resources>
